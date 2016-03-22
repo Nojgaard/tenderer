@@ -1,0 +1,9 @@
+[package]
+name = "tenderer"
+version = "0.1.0"
+authors = ["Nojgaard <nnoej10@gmail.com>"]
+
+[dependencies]
+image = "*"
+num = "*"
+rand = "0.3"
